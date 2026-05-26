@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcelete",
+        "uuid": 6254776,
+        "checksum": "6yrb66"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
